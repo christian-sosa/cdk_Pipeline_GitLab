@@ -1,3 +1,7 @@
+Documentación importante: https://aws.amazon.com/es/blogs/devops/event-driven-architecture-for-using-third-party-git-repositories-as-source-for-aws-codepipeline/
+
+Repositorio de referencia: GitHub - karthickcse05/aws-codepipeline-third-party-git-repositories: aws codepipeline for gitlab 
+
 # Welcome to your CDK TypeScript project!
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`PipelineStack`)
