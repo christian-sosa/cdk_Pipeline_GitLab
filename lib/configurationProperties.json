@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Branch",
+      "key": false,
+      "required": true,
+      "secret": false,
+      "queryable": false,
+      "type": "String",
+      "description": "Git branch to pull"
+    },
+    {
+      "name": "GitUrl",
+      "key": false,
+      "required": true,
+      "secret": false,
+      "queryable": false,
+      "type": "String",
+      "description": "SSH git clone URL"
+    },
+    {
+      "name": "PipelineName",
+      "key": false,
+      "required": true,
+      "secret": false,
+      "queryable": true,
+      "type": "String",
+      "description": "Name of the CodePipeline"
+    },
+    {
+      "name": "SSHSecretKeyName",
+      "key": false,
+      "required": true,
+      "secret": false,
+      "queryable": false,
+      "type": "String",
+      "description": "Name of the Secret for SSH private Key"
+    }
+  ]
